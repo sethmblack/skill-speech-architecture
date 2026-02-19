@@ -3,8 +3,9 @@ name: speech-architecture
 description: Structure any presentation, argument, or extended persuasive communication using classical arrangement patterns for maximum impact.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5030
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - speech-architecture
 - storytelling
